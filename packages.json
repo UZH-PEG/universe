@@ -2,5 +2,8 @@
   {
     "package": "dmdScheme",
     "url": "https://github.com/UZH-PEG/dmdScheme"
-  }
+  },
+  {
+    "package": "microxanox",
+    "url": "https://github.com/UZH-PEG/microxanox"
 ]
